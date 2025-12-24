@@ -10,11 +10,11 @@
 // ===============================================
 // 1. KONFIGURASI PRIBADI (ISI DATA ANDA)
 // ===============================================
-const char* ssid = "Ryoga";         // Ganti Nama WiFi
-const char* password = "QwerAsd123"; // Ganti Password WiFi
+const char* ssid = "Your Wifi SSID";         // Ganti Nama WiFi
+const char* password = "Your Wifi Password"; // Ganti Password WiFi
 
-#define BOTtoken "8297319581:AAFcjyLYy0XTrqLOFA0TXiWejwRSRxx-DYk"            // Ganti Token Bot
-#define CHAT_ID "1185941562"               // Ganti Chat ID
+#define BOTtoken "Your Telegram BOT Token"            // Ganti Token Bot
+#define CHAT_ID "Your Telegram Bot Id"               // Ganti Chat ID
 
 // ===============================================
 // 2. KONFIGURASI SENSOR & PIN
